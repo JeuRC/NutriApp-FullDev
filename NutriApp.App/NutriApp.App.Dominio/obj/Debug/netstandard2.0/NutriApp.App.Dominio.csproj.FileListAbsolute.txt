@@ -1,9 +1,0 @@
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\bin\Debug\netstandard2.0\NutriApp.App.Dominio.deps.json
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\bin\Debug\netstandard2.0\NutriApp.App.Dominio.dll
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\bin\Debug\netstandard2.0\NutriApp.App.Dominio.pdb
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\obj\Debug\netstandard2.0\NutriApp.App.Dominio.csprojAssemblyReference.cache
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\obj\Debug\netstandard2.0\NutriApp.App.Dominio.AssemblyInfoInputs.cache
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\obj\Debug\netstandard2.0\NutriApp.App.Dominio.AssemblyInfo.cs
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\obj\Debug\netstandard2.0\NutriApp.App.Dominio.csproj.CoreCompileInputs.cache
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\obj\Debug\netstandard2.0\NutriApp.App.Dominio.dll
-D:\Programacion\ProgramacionWeb\aspNet\NutriApp-FullDev\NutriApp.App\NutriApp.App.Dominio\obj\Debug\netstandard2.0\NutriApp.App.Dominio.pdb
