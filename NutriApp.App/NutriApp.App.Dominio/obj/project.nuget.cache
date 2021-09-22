@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyYeNNNnkXuNvmX1QQIGe8aQHnA5e5n/7fpHEWSOQgssYiYJZLe8JLOsWg+F+upmKCp/hI+Mq4PdKUHDUBOx0g==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\NutriApp.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
