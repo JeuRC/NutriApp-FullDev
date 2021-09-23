@@ -4,14 +4,14 @@
     "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj": {}
   },
   "projects": {
-    "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj": {
+    "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\NutriApp.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj",
-        "projectName": "NutriApp.App.Persistencia",
-        "projectPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\NutriApp.App.Dominio.csproj",
+        "projectName": "NutriApp.App.Dominio",
+        "projectPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\NutriApp.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\obj\\",
+        "outputPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,6 +53,82 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj",
+        "projectName": "NutriApp.App.Persistencia",
+        "projectPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\NutriApp.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\NutriApp.App.Dominio.csproj": {
+                "projectPath": "D:\\Programacion\\ProgramacionWeb\\aspNet\\NutriApp-FullDev\\NutriApp.App\\NutriApp.App.Dominio\\NutriApp.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
         }
       }
